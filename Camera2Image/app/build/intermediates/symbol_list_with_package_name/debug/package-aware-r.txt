@@ -1585,7 +1585,6 @@ id forever
 id ghost_view
 id ghost_view_holder
 id gone
-id gotocameraImageButton
 id group_divider
 id groups
 id hideable
