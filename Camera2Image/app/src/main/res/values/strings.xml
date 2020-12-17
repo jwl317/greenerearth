@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">greenerearth</string>
+    <string name="camera_button">Go to Camera Button</string>
+    <string name="camera_capture_button">Camera Capture Button</string>
+</resources>
