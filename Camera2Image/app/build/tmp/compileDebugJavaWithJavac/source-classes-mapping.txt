@@ -1,0 +1,13 @@
+com/example/camera2image/BuildConfig.java
+ com.example.camera2image.BuildConfig
+com/example/camera2image/MainActivity.java
+ com.example.camera2image.MainActivity
+ com.example.camera2image.MainActivity$1
+ com.example.camera2image.MainActivity$2
+ com.example.camera2image.MainActivity$3
+ com.example.camera2image.MainActivity$4
+ com.example.camera2image.MainActivity$5
+ com.example.camera2image.MainActivity$6
+ com.example.camera2image.MainActivity$7
+ com.example.camera2image.MainActivity$CompareSizeByArea
+ com.example.camera2image.MainActivity$ImageSaver
